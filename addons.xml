@@ -20,7 +20,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.civitasscrapers" name="Civitas Scrapers Module" version="0.0.5.1" provider-name="13Clowns">
+<addon id="script.module.civitasscrapers" name="Civitas Scrapers Module" version="0.0.5.2" provider-name="13Clowns">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.beautifulsoup4"/>
